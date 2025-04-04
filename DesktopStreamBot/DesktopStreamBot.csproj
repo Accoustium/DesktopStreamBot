@@ -6,8 +6,8 @@
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <ProjectGuid>{82C53606-38CA-44D4-A2B0-35DD4BA55B53}</ProjectGuid>
     <OutputType>WinExe</OutputType>
-    <RootNamespace>DesktopBot</RootNamespace>
-    <AssemblyName>DesktopBot</AssemblyName>
+    <RootNamespace>DesktopStreamBot</RootNamespace>
+    <AssemblyName>DesktopStreamBot</AssemblyName>
     <TargetFrameworkVersion>v4.8.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
